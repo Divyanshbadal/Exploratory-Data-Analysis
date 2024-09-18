@@ -1,7 +1,7 @@
 # Marketing Analytics Project for E-Commerce Marketplace
 ### Leading online marketplace in India
 #### Business Context:
-The client is a leading online marketplace in India seeking to partner with AnalytixLabs to measure, manage, and analyze business performance1.
+The client is a leading online marketplace in India seeking to measure, manage, and analyze business performance1.
 
 #### Objective:
 Provide data-driven insights to measure, manage, and analyze business performance, focusing on customer, seller, product, and channel behaviors.
